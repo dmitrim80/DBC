@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DBC/static/css/main.af198eae.css",
+    "main.js": "/DBC/static/js/main.ce0bc9cc.js",
+    "static/media/dm-profile.png": "/DBC/static/media/dm-profile.cb13d161253430e15489.png",
+    "static/media/linkedin.svg": "/DBC/static/media/linkedin.8372758bbdece489bbfbd44452d742b2.svg",
+    "static/media/Mail.svg": "/DBC/static/media/Mail.ea7ae42f204e516c74e6bd56ec28b0a5.svg",
+    "index.html": "/DBC/index.html",
+    "main.af198eae.css.map": "/DBC/static/css/main.af198eae.css.map",
+    "main.ce0bc9cc.js.map": "/DBC/static/js/main.ce0bc9cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af198eae.css",
+    "static/js/main.ce0bc9cc.js"
+  ]
+}
